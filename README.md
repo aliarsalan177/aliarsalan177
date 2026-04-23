@@ -41,5 +41,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aliarsalan177&layout=compact&theme=dark&bg_color=0d1117&hide_border=true" alt="Top Languages" />
 </p>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aliarsalan177&theme=onedark&no-bg=true&margin-w=6&column=6" alt="aliarsalan177 trophies" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aliarsalan177&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true" alt="aliarsalan177 GitHub stats" />
 </p>
