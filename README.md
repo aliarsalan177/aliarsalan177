@@ -41,5 +41,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aliarsalan177&show_icons=true&locale=en&layout=compact" alt="aliarsalan177" />
 </p>
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aliarsalan177" alt="aliarsalan177" /></a>
+  <img src="https://github-profile-trophy.vercel.app/?username=aliarsalan177&theme=flat&no-frame=true&no-bg=true&margin-w=6&column=6" alt="aliarsalan177 trophies" />
 </p>
