@@ -83,4 +83,4 @@ avoids the common mistakes.
 
 ---
 
-<p align="center"><sub>🌍 Based in Saudi Arabia · Open to senior frontend, full-stack &amp; AI-integration roles</sub></p>
+<p align="center"><sub>🌍 Based on planet Earth · Open to remote senior frontend, full-stack &amp; AI-integration roles worldwide</sub></p>
